@@ -1,0 +1,23 @@
+
+
+
+.button{
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+    background-color: #514988;
+    border-radius: 20px;
+    width: 32rem;
+    height: 10rem;
+    
+
+
+}
+
+
+.button:hover {
+    cursor: pointer;
+    background-color: #FFD900;
+    color: #514988;
+}
